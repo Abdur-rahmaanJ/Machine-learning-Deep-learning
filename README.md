@@ -1,2 +1,2 @@
-# machine learning and deep learning explanations
+# data-sci | mach learn | deep learn
 jupyterified explanations

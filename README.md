@@ -1,2 +1,2 @@
 # data-sci | mach learn | deep learn
-jupyterified explanations
+jupyterified explanations / tutorials
